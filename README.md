@@ -4,7 +4,7 @@ In this Project at OpenGenus, we explored the famous chrome game.
 
 The article linked below covers the requirements necessary and the thought process behind creating the classes which are needed to make this game. Pygame is an amazing library, to gain more experience there is no substitute to making it. Look at another pygame after this to make your understanding firm.	
 
-To get to know more about the article linked to this project, vist: [Chrome-Dino-Game](https://iq.opengenus.org/p/ad18d45e-80a1-4b98-bf26-480816c0f665/)
+To get to know more about the article linked to this project, vist: [Chrome-Dino-Game](https://iq.opengenus.org/chrome-dino-game-in-python/)
 
 Also, take a look at these pygame articles from OpenGenus,
 1. Snake game using Python.[click  here](https://iq.opengenus.org/snake-game-in-python/)
